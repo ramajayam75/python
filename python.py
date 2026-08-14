@@ -18,3 +18,8 @@ print("student")
 print("object")
 
 print("salary")
+
+import tkinter as tk
+obj=tk.Tk()
+
+obj.title("Form")
