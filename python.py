@@ -11,3 +11,10 @@ print(c)
 
 n=int(input("Enter a number:"))
         print(n)
+print("function")
+print("employee")
+print("student")
+
+print("object")
+
+print("salary")
