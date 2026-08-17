@@ -23,3 +23,6 @@ import tkinter as tk
 obj=tk.Tk()
 
 obj.title("Form")
+
+print("is greater than")
+print("is less than")
